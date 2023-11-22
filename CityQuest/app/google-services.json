@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977075556382",
+    "project_id": "cityquest-85465",
+    "storage_bucket": "cityquest-85465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977075556382:android:efb51ddead2889d7b3de0f",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZetwT_fzW5YfWbk1KDAoUzoLRufXA-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
